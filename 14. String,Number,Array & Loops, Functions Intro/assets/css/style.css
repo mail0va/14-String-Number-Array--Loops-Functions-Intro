@@ -1,0 +1,23 @@
+#input{
+    padding: 15px 30px;
+    border-radius: 10px;
+    /* margin-left: 100px; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    border: 1px solid gray;
+}
+
+.button{
+    padding: 20px 50px;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.submit{
+    padding: 15px 30px;
+    border-radius: 15px;
+    border: 1px solid grey;
+    margin-top: 10px;
+}
